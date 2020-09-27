@@ -1,3 +1,5 @@
+[![Build Status](https://wave4.visualstudio.com/azure_devops_getstarted/_apis/build/status/dzhang123.pipelines-dotnet-core?branchName=master)](https://wave4.visualstudio.com/azure_devops_getstarted/_build/latest?definitionId=5&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
